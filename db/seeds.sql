@@ -1,0 +1,15 @@
+INSERT INTO burgers (burgerName, devoured) VALUES ('15-The Guido Burger — Hodads (San Diego)', false);
+INSERT INTO burgers (burgerName, devoured) VALUES ('14-Christmas Burger — The Ace (Toronto)', false);
+INSERT INTO burgers (burgerName, devoured) VALUES ('13-Lamb Burger — The Golden State (Los Angeles)', false);
+INSERT INTO burgers (burgerName, devoured) VALUES ('12-Mac Attack Burger — Boston Burger Co. (Somerville, Mass.)', false);
+INSERT INTO burgers (burgerName, devoured) VALUES ('11-Bahn Mi Burger — Bachi Burger (Las Vegas)', false);
+INSERT INTO burgers (burgerName, devoured) VALUES ('10-The Guys Big Bite Burger — The Nook (St. Paul, Minn.)', false);
+INSERT INTO burgers (burgerName, devoured) VALUES ('9-Beet Sliders — Gatsbys Diner (Sacramento, Calif.)--PS: I hate beets!', false);
+INSERT INTO burgers (burgerName, devoured) VALUES ('8-Suribachi Burger — Swagger (Kansas City, Mo.)', false);
+INSERT INTO burgers (burgerName, devoured) VALUES ('7-Italian Stallion Burger — Burger Me (Truckee, Calif.)', false);
+INSERT INTO burgers (burgerName, devoured) VALUES ('6-Harvard Double Burger — Mr. Bartleys (Cambridge, Mass.)', false);
+INSERT INTO burgers (burgerName, devoured) VALUES ('5-"Poor Boy" Double Burger — Parkette Drive-In (Lexington, Ky.)', false);
+INSERT INTO burgers (burgerName, devoured) VALUES ('4-Tofu Black Bean Burger — Sweet Home Waimanalo (Waimanalo, Hawaii)', false);
+INSERT INTO burgers (burgerName, devoured) VALUES ('3-Umami Burger — bopNgrill (Chicago)', false);
+INSERT INTO burgers (burgerName, devoured) VALUES ('2-Salmon Burger — DMK Burger Bar (Chicago)', false);
+INSERT INTO burgers (burgerName, devoured) VALUES ('1-Snapping Gator Burger — Tiolis Crazee Burger (San Diego)', false);

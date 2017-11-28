@@ -1,0 +1,85 @@
+body {
+    font-family: 'Lobster', sans-serif !important;
+    background-image: url(http://www.wakingtimes.com/wp-content/uploads/2014/04/Burger-1-1.jpg);
+    /*background-image: url(https://media.giphy.com/media/fPEnF0Y3Ra6u4/giphy.gif);*/
+    background-size: 100%;
+    background-repeat: repeat;
+    font-size: 300%;
+    text-shadow: 1px 2px 0 black;
+}
+
+.btn-success {
+    background-color: transparent !important; 
+}
+
+#orderList{
+    text-decoration: underline;
+}
+
+#devouredList{
+    text-decoration: underline;
+}
+
+.footer {
+    height: 100px;
+}
+
+#holder {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+}
+
+.container {
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+    padding: 15px !important;
+}
+
+button {
+    font-size: 24px !important;
+    font-weight: bolder !important;
+    width: 100%;
+    max-width: 200px;
+}
+
+.jumbotron {
+    background-color: transparent;
+    color: black;
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+    font-weight: 700 !important;
+    margin-bottom: 0 !important;
+    text-shadow: none;
+}
+
+.jumbotron h1 {
+    color: purple !important;
+}
+
+h2 {
+    font-weight: bolder;
+    font-size: 150%;
+    margin-top: 10px !important;
+    text-align: center;
+}
+
+input {
+    color: black;
+}
+
+label {
+    font-size: 120%;
+}
+
+ul {
+    list-style: none;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 120%;
+    padding-left: 0 !important;
+}
+
+#add-burger {
+    text-align: center;
+}
